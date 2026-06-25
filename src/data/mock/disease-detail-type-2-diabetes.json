@@ -1,0 +1,87 @@
+{
+  "id": "d001",
+  "slug": "type-2-diabetes",
+  "title": "Type 2 Diabetes",
+  "description": "A chronic condition that affects the way the body processes blood sugar (glucose). In type 2 diabetes, the body either doesn't produce enough insulin, or it resists insulin.",
+  "tags": ["Endocrinology", "Metabolic Disorder", "Chronic Disease"],
+  "reviewDate": "Oct 2024",
+  "sections": [
+    { "id": "overview", "label": "Overview" },
+    { "id": "symptoms", "label": "Symptoms" },
+    { "id": "causes", "label": "Causes" },
+    { "id": "treatment", "label": "Treatment" },
+    { "id": "faq", "label": "FAQ" }
+  ],
+  "quickSummary": {
+    "primarySymptoms": "Increased thirst, frequent urination, and fatigue.",
+    "commonTreatments": "Diet, exercise, medication, and insulin therapy.",
+    "riskFactors": "Weight, age, genetics, and activity level."
+  },
+  "overview": [
+    "Type 2 diabetes is a lifelong disease that keeps your body from using insulin the way it should. Your body either resists the effects of insulin — a hormone that regulates the movement of sugar into your cells — or doesn't produce enough insulin to maintain normal glucose levels.",
+    "When there isn't enough insulin or the insulin isn't used properly, sugar builds up in your blood instead of being used for energy. This can eventually lead to serious health problems, such as heart disease, vision loss, and kidney disease."
+  ],
+  "symptoms": [
+    {
+      "icon": "droplets",
+      "title": "Increased Thirst",
+      "description": "Excess sugar building up in your bloodstream pulls fluid from your tissues."
+    },
+    {
+      "icon": "clock",
+      "title": "Frequent Urination",
+      "description": "As a result of excessive drinking and sugar processing, you may urinate more often."
+    },
+    {
+      "icon": "eye",
+      "title": "Blurred Vision",
+      "description": "High levels of blood sugar pull fluid from the lenses of your eyes, affecting focus."
+    },
+    {
+      "icon": "zap",
+      "title": "Increased Hunger",
+      "description": "Without enough insulin to move sugar into cells, your muscles and organs lack energy."
+    }
+  ],
+  "causes": {
+    "biological": "Type 2 diabetes develops when the pancreas can't make enough insulin and cells respond poorly to insulin and take in less sugar. The exact reasons for this remain a subject of active clinical research.",
+    "riskFactors": [
+      { "label": "Weight:", "description": "Excess fat, especially around the abdomen." },
+      { "label": "Inactivity:", "description": "Physical activity helps control weight and uses glucose." },
+      { "label": "Family History:", "description": "Increased risk if a parent or sibling has it." },
+      { "label": "Age:", "description": "Risk increases as you get older, especially after 45." }
+    ]
+  },
+  "treatment": [
+    {
+      "step": "1",
+      "title": "Monitoring Blood Sugar",
+      "description": "Regular testing of your blood sugar level is the best way to ensure that you stay within your target range. Your doctor will advise you on how often to check."
+    },
+    {
+      "step": "2",
+      "title": "Healthy Eating & Exercise",
+      "description": "There's no specific diabetes diet. You'll need to focus on more fruits, vegetables, lean proteins, and whole grains while cutting back on refined carbs and sweets."
+    },
+    {
+      "step": "3",
+      "title": "Medication",
+      "description": "If diet and exercise aren't enough, you might need diabetes medications or insulin therapy. These help lower your blood sugar levels in various ways."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Can Type 2 Diabetes be reversed?",
+      "answer": "While there is no cure, some people are able to reach normal blood sugar levels without medication through significant weight loss and lifestyle changes. This is often called \"remission.\""
+    },
+    {
+      "question": "How is it different from Type 1?",
+      "answer": "Type 1 is an autoimmune reaction where the body stops making insulin. Type 2 is a condition where the body doesn't use insulin well and can't keep blood sugar at normal levels."
+    }
+  ],
+  "relatedTopics": [
+    { "title": "Insulin Resistance", "href": "/diseases/insulin-resistance" },
+    { "title": "Gestational Diabetes", "href": "/diseases/gestational-diabetes" },
+    { "title": "Heart Health", "href": "/diseases/heart-health" }
+  ]
+}

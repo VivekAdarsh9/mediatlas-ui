@@ -1,0 +1,66 @@
+[
+  {
+    "id": "d001",
+    "slug": "type-2-diabetes",
+    "title": "Type 2 Diabetes",
+    "description": "A chronic condition that affects the way the body processes blood sugar (glucose).",
+    "tags": ["Endocrinology", "Metabolic Disorder", "Chronic Disease"],
+    "category": "Endocrinology"
+  },
+  {
+    "id": "d002",
+    "slug": "hypertension",
+    "title": "Hypertension",
+    "description": "A condition in which the force of the blood against the artery walls is too high.",
+    "tags": ["Cardiology", "Chronic Disease"],
+    "category": "Cardiology"
+  },
+  {
+    "id": "d003",
+    "slug": "asthma",
+    "title": "Asthma",
+    "description": "A condition in which the airways narrow and swell and may produce extra mucus.",
+    "tags": ["Pulmonology", "Chronic Disease", "Respiratory"],
+    "category": "Pulmonology"
+  },
+  {
+    "id": "d004",
+    "slug": "migraine",
+    "title": "Migraine",
+    "description": "A headache of varying intensity, often accompanied by nausea and sensitivity to light and sound.",
+    "tags": ["Neurology", "Pain Management"],
+    "category": "Neurology"
+  },
+  {
+    "id": "d005",
+    "slug": "rheumatoid-arthritis",
+    "title": "Rheumatoid Arthritis",
+    "description": "A chronic inflammatory disorder affecting many joints, including those in the hands and feet.",
+    "tags": ["Rheumatology", "Autoimmune", "Chronic Disease"],
+    "category": "Rheumatology"
+  },
+  {
+    "id": "d006",
+    "slug": "chronic-kidney-disease",
+    "title": "Chronic Kidney Disease",
+    "description": "Gradual loss of kidney function over time, often related to diabetes or hypertension.",
+    "tags": ["Nephrology", "Chronic Disease"],
+    "category": "Nephrology"
+  },
+  {
+    "id": "d007",
+    "slug": "coronary-artery-disease",
+    "title": "Coronary Artery Disease",
+    "description": "The most common type of heart disease caused by plaque buildup in the arteries.",
+    "tags": ["Cardiology", "Chronic Disease"],
+    "category": "Cardiology"
+  },
+  {
+    "id": "d008",
+    "slug": "gestational-diabetes",
+    "title": "Gestational Diabetes",
+    "description": "High blood sugar that develops during pregnancy and usually disappears after delivery.",
+    "tags": ["Endocrinology", "Obstetrics", "Pregnancy"],
+    "category": "Endocrinology"
+  }
+]
