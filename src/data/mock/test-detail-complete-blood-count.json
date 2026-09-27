@@ -1,0 +1,124 @@
+{
+  "id": "t001",
+  "slug": "complete-blood-count",
+  "name": "Complete Blood Count (CBC)",
+  "description": "A fundamental diagnostic tool that evaluates the overall health of your blood, screening for a wide range of disorders including anemia, infection, and leukemia.",
+  "category": "Hematology",
+  "tags": ["Blood Test", "Hematology"],
+  "reviewDate": "Oct 2023",
+  "resultTime": "24-48 Hours",
+  "specimen": "Venous Blood",
+  "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCpOUpazfD8wt4IPRXtoJ3KO50oh2nfwTTdzP9a_Tjc4sNtKH5S5gP5_6jq3pgmlHB5bOhzXKK13WIvkSa_6vPRis6k-zejxO5WdKG594EIXLxvXghgkKOvTcRf51I7CyqeKWts6jjanEBk6wxSlJiZ44Q-uH4skClYkI9UcpyWteA4cQC4v7bbd7ZcogSmPkv67vngReU6nPIwEFFVn8znQlKGlbF59VcANzE2ceVuIZmvPR9orzO1taq1NFcgNRZREntNrSam9J0",
+  "sections": [
+    { "id": "measures", "label": "What it measures" },
+    { "id": "performed", "label": "How it's performed" },
+    { "id": "ranges", "label": "Normal ranges" },
+    { "id": "next-steps", "label": "Next steps" }
+  ],
+  "quickSummary": {
+    "primaryPurpose": "Evaluates overall health and detects a wide range of disorders, including anemia, infection, and leukemia.",
+    "whatItMeasures": "Red blood cells, white blood cells, hemoglobin, hematocrit, and platelets.",
+    "preparation": "No special preparation is usually required."
+  },
+  "overview": [
+    "A complete blood count (CBC) is a blood test used to evaluate your overall health and detect a wide range of disorders, including anemia, infection and leukemia.",
+    "A complete blood count test measures several components and features of your blood, including:",
+    "- Red blood cells, which carry oxygen",
+    "- White blood cells, which fight infection",
+    "- Hemoglobin, the oxygen-carrying protein in red blood cells",
+    "- Hematocrit, the proportion of red blood cells to the fluid component, or plasma, in your blood",
+    "- Platelets, which help with blood clotting"
+  ],
+  "measures": [
+    {
+      "name": "Red Blood Cells (RBC)",
+      "description": "Measures the number of red blood cells, which carry oxygen from your lungs to the rest of your body."
+    },
+    {
+      "name": "White Blood Cells (WBC)",
+      "description": "Measures the number of white blood cells, which fight infection and disease."
+    },
+    {
+      "name": "Hemoglobin (Hb)",
+      "description": "Measures the amount of hemoglobin, the oxygen-carrying protein in red blood cells."
+    },
+    {
+      "name": "Hematocrit (Hct)",
+      "description": "Measures the proportion of blood volume that is occupied by red blood cells."
+    },
+    {
+      "name": "Platelet Count",
+      "description": "Measures the number of platelets, which help with blood clotting."
+    }
+  ],
+  "procedure": [
+    {
+      "step": "1",
+      "title": "Preparation",
+      "description": "You typically don't need any special preparation before a complete blood count test. You can eat and drink normally before the test."
+    },
+    {
+      "step": "2",
+      "title": "Collection",
+      "description": "A healthcare professional will clean the skin on your arm with an antiseptic wipe and insert a small needle into a vein to draw blood into a test tube or vial."
+    },
+    {
+      "step": "3",
+      "title": "Aftercare",
+      "description": "After the blood draw, pressure will be applied to the puncture site to stop any bleeding, and a small bandage will be placed over it. You can resume normal activities immediately."
+    }
+  ],
+  "referenceRanges": [
+    {
+      "parameter": "Red Blood Cell Count (Male)",
+      "typicalRange": "4.5 – 5.9",
+      "units": "million cells/mcL"
+    },
+    {
+      "parameter": "Red Blood Cell Count (Female)",
+      "typicalRange": "4.0 – 5.2",
+      "units": "million cells/mcL"
+    },
+    {
+      "parameter": "Hemoglobin (Male)",
+      "typicalRange": "13.5 – 17.5",
+      "units": "g/dL"
+    },
+    {
+      "parameter": "Hemoglobin (Female)",
+      "typicalRange": "12.0 – 15.5",
+      "units": "g/dL"
+    },
+    {
+      "parameter": "Hematocrit (Male)",
+      "typicalRange": "41.0% – 53.0%",
+      "units": "%"
+    },
+    {
+      "parameter": "Hematocrit (Female)",
+      "typicalRange": "36.0% – 46.0%",
+      "units": "%"
+    },
+    {
+      "parameter": "White Blood Cell Count",
+      "typicalRange": "4,500 – 11,000",
+      "units": "cells/mcL"
+    },
+    {
+      "parameter": "Platelet Count",
+      "typicalRange": "150,000 – 450,000",
+      "units": "cells/mcL"
+    }
+  ],
+  "interpretation": {
+    "high": "May indicate infection, inflammation, or dehydration.",
+    "low": "May indicate anemia, malnutrition, or bone marrow suppression.",
+    "notes": "An abnormal result doesn't always mean a disease. Your physician will look at trends over time and compare them with your symptoms."
+  },
+  "relatedTopics": [
+    { "title": "Anemia", "href": "/diseases/anemia" },
+    { "title": "Infection", "href": "/diseases/infection" },
+    { "title": "Leukemia", "href": "/diseases/leukemia" },
+    { "title": "Bleeding Disorders", "href": "/diseases/bleeding-disorders" }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "badge": "Maternity Care",
+    "title": "Your Journey to Parenthood, Simplified.",
+    "subtitle": "Clinical clarity meets compassionate guidance. Tracking your baby's growth with evidence-based insights.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2HNfHCrLNiMyqMf8poBeT4M9wa1Tlb5cmmw0C3HnyJF6vOauPlJD_w33zq3j6WRpHHxfaZqZ2GyZ9UQ3TK2tj4zRm40ZfP9t2yRPe0lxOhudh0BPlYZOPzVRIC8QW3gBxQ3U5dNs73TulKTNrVLQc16Rl9vuoqNkv92f1GK5rH42wGmenrAclu0WnBxTBJrMUTPUWho_89VJjH79rdy5WuAwYv-gc43sJ5kdx1xdRrhR13zE0C0lQVBOzgrXJwnuw0RIM9pL-vfU",
+    "imageAlt": "A pregnant woman sitting in a sunlit, minimalist living room with white linen curtains"
+  },
+  "currentWeek": 12,
+  "weeks": [
+    {
+      "week": 8,
+      "sizeComparison": "Raspberry Size",
+      "title": "Neural Development",
+      "description": "The brain and spinal cord are forming rapidly. Basic heart structures are now visible on ultrasound.",
+      "progress": 20
+    },
+    {
+      "week": 12,
+      "sizeComparison": "Lime Size",
+      "title": "First Trimester Milestone",
+      "description": "Baby's reflexes are developing. Fingernails and toes are beginning to form. Risk of miscarriage drops significantly.",
+      "progress": 30
+    },
+    {
+      "week": 16,
+      "sizeComparison": "Avocado Size",
+      "title": "Facial Expressions",
+      "description": "Muscles are getting stronger. The baby can now make squinting and frowning expressions.",
+      "progress": 40
+    },
+    {
+      "week": 20,
+      "sizeComparison": "Banana Size",
+      "title": "Halfway Point",
+      "description": "Anatomy scan week. The baby is swallowing more and producing meconium.",
+      "progress": 50
+    }
+  ],
+  "keyTakeaways": {
+    "title": "Key Takeaways: Second Trimester",
+    "items": [
+      "Energy levels typically increase",
+      "Fetal movement \"Quickening\" begins",
+      "Important anatomy ultrasound (Weeks 18-22)",
+      "Nutritional focus: Iron and Calcium"
+    ]
+  },
+  "wellness": {
+    "nutrition": {
+      "title": "Optimized Nutrition",
+      "description": "Discover the power of folate-rich greens and omega-3 fatty acids for cognitive development.",
+      "linkLabel": "Explore recipes",
+      "href": "#",
+      "image": {
+        "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuBsLY5_cNwZJ_zbuder7fuwP2H2N5pkl7_vUam9slXGws1ZC_gx3pY3reUZdEeTKhdUfgmCzTKFDN0K49JFJot4qKlnLcvPmN6wFSFusExfeWYQyD1hpAH16sJsnucpLTzFyzXET8sT61ys0IkLV1mW2MhMWSlbIFv95a9ugVl39qyVZ9YWaFPoJwvk-vCrjN1P-YDNZloSDOTT2ev69fHvNDT1J1IQFpPDgkCdvxRONa6-lNL-SmlPi5yV9hzbuNYRaU5pp-FBr8w",
+        "alt": "A prenatal bowl with kale, avocado, salmon, and pumpkin seeds on a light gray plate"
+      }
+    },
+    "careSchedule": {
+      "title": "Care Schedule",
+      "description": "Track your appointments and screening tests without the stress.",
+      "ctaLabel": "Open Calendar"
+    },
+    "mentalHealth": {
+      "title": "Calm Mind",
+      "description": "Guided meditations tailored for hormonal shifts and sleep quality.",
+      "linkLabel": "Listen Now",
+      "href": "#"
+    },
+    "activity": {
+      "title": "Safe Activity",
+      "description": "Prenatal-safe movements to maintain strength and prepare your body for labor and delivery.",
+      "tags": ["Yoga", "Swimming", "Walking"],
+      "image": {
+        "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuD9aUDqz5m_fNzAZ4x8uVcGW82tD0pudO7LijPIkHWt57NOHqdsDhnwHM-E9aGoBNs142s6TEkNHd-gpPRDRAJZyz2ovQRXxYA8f3D8OmFW6i2DSajLsxsrZBsqpx_uhNpisYF2bzItOQLRNbNGi-q1qnfxem2zSn5Hs87LnnJZ3hSdPxM-NsNnBdLWkCrC11OnwtMoYh-cToe5W5vh58ERj0b1KGSgbTWicaVD0x6LQiXi9v9qMQOlDl4Ewrx3pzcIrVlM_NtjfDE",
+        "alt": "A woman practicing prenatal yoga in a bright, white studio"
+      }
+    }
+  },
+  "referencesUpdated": "June 2024"
+}

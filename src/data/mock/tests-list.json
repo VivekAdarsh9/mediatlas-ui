@@ -1,0 +1,26 @@
+[
+  {
+    "id": "t001",
+    "slug": "complete-blood-count",
+    "name": "Complete Blood Count (CBC)",
+    "description": "A fundamental diagnostic tool that evaluates the overall health of your blood, screening for a wide range of disorders including anemia, infection, and leukemia.",
+    "category": "Hematology",
+    "tags": ["Blood Test", "Hematology"]
+  },
+  {
+    "id": "t002",
+    "slug": "basic-metabolic-panel",
+    "name": "Basic Metabolic Panel (BMP)",
+    "description": "A blood test that measures your body's electrolyte and fluid balance, kidney function, and blood sugar levels.",
+    "category": "Chemistry",
+    "tags": ["Blood Test", "Metabolic"]
+  },
+  {
+    "id": "t003",
+    "slug": "lipid-panel",
+    "name": "Lipid Panel",
+    "description": "A group of tests that measure the amount of cholesterol and triglycerides in your blood.",
+    "category": "Chemistry",
+    "tags": ["Blood Test", "Lipids"]
+  }
+]

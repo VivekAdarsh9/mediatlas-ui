@@ -1,0 +1,99 @@
+{
+  "config": {
+    "greeting": "Hi, I'm the Mediatas clinical assistant. Ask me about conditions, medications, lab tests, or pregnancy, and I'll point you to the relevant references.",
+    "suggestions": [
+      {
+        "category": "Diseases",
+        "prompt": "What are the early symptoms of type 2 diabetes?"
+      },
+      {
+        "category": "Drugs",
+        "prompt": "What are the common side effects of lisinopril?"
+      },
+      {
+        "category": "Tests",
+        "prompt": "What does a complete blood count measure?"
+      },
+      {
+        "category": "Pregnancy",
+        "prompt": "What should I expect in the first trimester?"
+      }
+    ],
+    "capabilities": [
+      {
+        "icon": "stethoscope",
+        "title": "Condition Insights",
+        "description": "Plain-language summaries of symptoms, causes, and treatment options."
+      },
+      {
+        "icon": "pill",
+        "title": "Medication Guidance",
+        "description": "Dosage ranges, side effects, and interactions from our drug reference."
+      },
+      {
+        "icon": "flask",
+        "title": "Lab Result Context",
+        "description": "What common tests measure and how reference ranges are interpreted."
+      },
+      {
+        "icon": "book",
+        "title": "Cited Sources",
+        "description": "Every answer links back to the Mediatas pages it draws from."
+      }
+    ],
+    "safetyNotice": "The AI Assistant provides general educational information only. It does not diagnose conditions or replace advice from a qualified healthcare professional. If you think you are having a medical emergency, call your local emergency number immediately."
+  },
+  "urgentKeywords": [
+    "chest pain",
+    "can't breathe",
+    "cannot breathe",
+    "difficulty breathing",
+    "stroke",
+    "suicide",
+    "overdose",
+    "unconscious",
+    "severe bleeding"
+  ],
+  "urgentReply": {
+    "content": "Your message mentions symptoms that may need urgent medical attention.\n\nPlease call your local emergency number or go to the nearest emergency department right away. Don't wait for an online answer.",
+    "isUrgent": true
+  },
+  "replies": [
+    {
+      "keywords": ["diabetes", "blood sugar", "glucose", "insulin"],
+      "content": "Type 2 diabetes often develops slowly, and early symptoms can be mild or go unnoticed. Common signs include increased thirst, frequent urination, increased hunger, fatigue, blurred vision, slow-healing sores, and frequent infections.\n\nRisk factors include excess weight, physical inactivity, family history, and age over 45. A healthcare provider can confirm a diagnosis with tests such as fasting blood glucose or HbA1c.",
+      "sources": [
+        { "title": "Type 2 Diabetes", "href": "/diseases/type-2-diabetes" }
+      ]
+    },
+    {
+      "keywords": ["lisinopril", "ace inhibitor", "blood pressure", "hypertension"],
+      "content": "Lisinopril is an ACE inhibitor used to treat high blood pressure and heart failure. The most common side effects are a dry cough, dizziness, headache, and tiredness.\n\nLess commonly it can raise potassium levels or cause swelling of the face, lips, or throat (angioedema), which needs immediate medical care. It should not be taken during pregnancy.",
+      "sources": [
+        { "title": "Lisinopril", "href": "/drugs/lisinopril" }
+      ]
+    },
+    {
+      "keywords": ["cbc", "blood count", "complete blood", "hemoglobin", "platelet"],
+      "content": "A complete blood count (CBC) is a panel that measures the main components of your blood: red blood cells, white blood cells, hemoglobin, hematocrit, and platelets.\n\nIt's often used as a general health screen and to help investigate symptoms like fatigue, infection, or unexplained bruising. Reference ranges vary by laboratory, so results should be reviewed with your clinician.",
+      "sources": [
+        { "title": "Complete Blood Count (CBC)", "href": "/tests/complete-blood-count" }
+      ]
+    },
+    {
+      "keywords": ["pregnan", "trimester", "prenatal", "baby"],
+      "content": "The first trimester covers weeks 1 to 12. Common experiences include nausea, fatigue, breast tenderness, and frequent urination as hormone levels rise.\n\nKey steps during this time are starting a prenatal vitamin with folic acid, booking your first prenatal appointment, and reviewing any current medications with your provider.",
+      "sources": [
+        { "title": "Pregnancy Guide", "href": "/pregnancy" }
+      ]
+    }
+  ],
+  "fallbackReply": {
+    "content": "I don't have a specific reference for that yet. Try rephrasing your question, or browse our clinical encyclopedia for diseases, drugs, and lab tests.",
+    "sources": [
+      { "title": "Browse Diseases", "href": "/diseases" },
+      { "title": "Browse Drugs", "href": "/drugs" },
+      { "title": "Browse Tests", "href": "/tests" }
+    ]
+  }
+}

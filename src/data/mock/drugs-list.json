@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dr001",
+    "slug": "lisinopril",
+    "name": "Lisinopril",
+    "genericName": "Lisinopril",
+    "description": "An ACE inhibitor used to treat high blood pressure, heart failure, and to improve survival after heart attack.",
+    "drugClass": "ACE Inhibitor",
+    "tags": ["Antihypertensive", "Cardiovascular", "Prescription Only"],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "dr002",
+    "slug": "metformin",
+    "name": "Metformin",
+    "genericName": "Metformin Hydrochloride",
+    "description": "A biguanide used as a first-line treatment for type 2 diabetes to help control blood sugar levels.",
+    "drugClass": "Biguanide",
+    "tags": ["Antidiabetic", "Endocrinology", "Prescription Only"],
+    "category": "Endocrinology"
+  },
+  {
+    "id": "dr003",
+    "slug": "atorvastatin",
+    "name": "Atorvastatin",
+    "genericName": "Atorvastatin Calcium",
+    "description": "A statin medication used to lower cholesterol levels and reduce the risk of cardiovascular disease.",
+    "drugClass": "Statin (HMG-CoA Reductase Inhibitor)",
+    "tags": ["Lipid-Lowering", "Cardiovascular", "Prescription Only"],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "dr004",
+    "slug": "amoxicillin",
+    "name": "Amoxicillin",
+    "genericName": "Amoxicillin Trihydrate",
+    "description": "A penicillin-type antibiotic used to treat many different bacterial infections.",
+    "drugClass": "Penicillin Antibiotic",
+    "tags": ["Antibiotic", "Infectious Disease", "Prescription Only"],
+    "category": "Infectious Disease"
+  },
+  {
+    "id": "dr005",
+    "slug": "omeprazole",
+    "name": "Omeprazole",
+    "genericName": "Omeprazole",
+    "description": "A proton pump inhibitor used to reduce stomach acid and treat GERD, ulcers, and other acid-related conditions.",
+    "drugClass": "Proton Pump Inhibitor",
+    "tags": ["Gastrointestinal", "PPI", "Prescription Only"],
+    "category": "Gastroenterology"
+  },
+  {
+    "id": "dr006",
+    "slug": "amlodipine",
+    "name": "Amlodipine",
+    "genericName": "Amlodipine Besylate",
+    "description": "A calcium channel blocker used to treat high blood pressure and coronary artery disease.",
+    "drugClass": "Calcium Channel Blocker",
+    "tags": ["Antihypertensive", "Cardiovascular", "Prescription Only"],
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "dr007",
+    "slug": "sertraline",
+    "name": "Sertraline",
+    "genericName": "Sertraline Hydrochloride",
+    "description": "An SSRI antidepressant used to treat depression, panic attacks, PTSD, OCD, and social anxiety disorder.",
+    "drugClass": "SSRI Antidepressant",
+    "tags": ["Psychiatric", "Antidepressant", "Prescription Only"],
+    "category": "Psychiatry"
+  },
+  {
+    "id": "dr008",
+    "slug": "montelukast",
+    "name": "Montelukast",
+    "genericName": "Montelukast Sodium",
+    "description": "A leukotriene receptor antagonist used for prevention and chronic treatment of asthma and allergic rhinitis.",
+    "drugClass": "Leukotriene Receptor Antagonist",
+    "tags": ["Respiratory", "Asthma", "Prescription Only"],
+    "category": "Pulmonology"
+  }
+]

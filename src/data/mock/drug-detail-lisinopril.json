@@ -1,0 +1,58 @@
+{
+  "id": "dr001",
+  "slug": "lisinopril",
+  "name": "Lisinopril",
+  "genericName": "Lisinopril",
+  "form": "Oral Tablet",
+  "description": "Lisinopril is a medication primarily used to treat high blood pressure (hypertension) and heart failure. It is also prescribed to improve survival after a heart attack. It works by relaxing blood vessels so that blood can flow more easily.",
+  "tags": ["ACE Inhibitor", "Prescription Only"],
+  "reviewDate": "October 12, 2024",
+  "sections": [
+    { "id": "overview", "label": "Overview" },
+    { "id": "uses", "label": "Medical Uses" },
+    { "id": "dosage", "label": "Dosage & Admin" },
+    { "id": "side-effects", "label": "Side Effects" },
+    { "id": "interactions", "label": "Interactions" },
+    { "id": "warnings", "label": "Precautions" }
+  ],
+  "quickSummary": "Lisinopril is an ACE inhibitor used to treat high blood pressure and heart failure, and to improve survival after a heart attack. It works by blocking the angiotensin-converting enzyme, which relaxes blood vessels and reduces blood pressure.",
+  "uses": [
+    {
+      "condition": "Hypertension",
+      "description": "Managing high blood pressure in adults and children at least 6 years of age."
+    },
+    {
+      "condition": "Congestive Heart Failure",
+      "description": "As an adjunct treatment to help manage symptoms and improve heart function."
+    },
+    {
+      "condition": "Post-Myocardial Infarction",
+      "description": "Administered within 24 hours of a heart attack to improve hemodynamic stability and survival rates."
+    }
+  ],
+  "dosage": [
+    { "condition": "Hypertension", "startingDose": "10 mg once daily", "maxDose": "40 mg once daily" },
+    { "condition": "Heart Failure", "startingDose": "5 mg once daily", "maxDose": "40 mg once daily" },
+    { "condition": "Post-Heart Attack", "startingDose": "5 mg initially", "maxDose": "10 mg once daily" }
+  ],
+  "sideEffects": [
+    { "icon": "wind", "title": "Dry Cough", "description": "The most common side effect of ACE inhibitors. Usually subsides upon discontinuation." },
+    { "icon": "activity", "title": "Dizziness", "description": "Particularly when standing up quickly. Occurs due to blood pressure changes." },
+    { "icon": "brain", "title": "Headache", "description": "Mild to moderate tension-style headaches reported in 5% of patients." },
+    { "icon": "droplets", "title": "Fatigue", "description": "General feeling of low energy as the body adjusts to lower blood pressure." }
+  ],
+  "interactions": [
+    { "substance": "Potassium Supplements", "description": "Lisinopril can increase potassium levels. Combining with supplements or potassium-sparing diuretics may lead to hyperkalemia." },
+    { "substance": "NSAIDs", "description": "Drugs like ibuprofen or naproxen can reduce the blood pressure lowering effect of lisinopril and may increase the risk of kidney issues." },
+    { "substance": "Lithium", "description": "Lisinopril may increase the amount of lithium in your blood, potentially leading to lithium toxicity." }
+  ],
+  "warnings": [
+    { "severity": "critical", "title": "Fetal Toxicity", "description": "Black Box Warning: When pregnancy is detected, discontinue lisinopril as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus." },
+    { "severity": "serious", "title": "Angioedema", "description": "Seek immediate medical attention if you experience swelling of the face, lips, tongue, or throat, as this can obstruct breathing." }
+  ],
+  "relatedTopics": [
+    { "title": "Amlodipine", "href": "/drugs/amlodipine" },
+    { "title": "Hypertension", "href": "/diseases/hypertension" },
+    { "title": "Heart Failure", "href": "/diseases/heart-failure" }
+  ]
+}
